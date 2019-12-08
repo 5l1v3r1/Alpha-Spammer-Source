@@ -1,0 +1,78 @@
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Debug\MetroFramework.Design.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Debug\MetroFramework.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\obj\Debug\Discord Multitool.csprojAssemblyReference.cache
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\obj\Debug\Discord_Multitool.Form1.resources
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\obj\Debug\Discord_Multitool.Properties.Resources.resources
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\obj\Debug\Discord Multitool.csproj.GenerateResource.cache
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\obj\Debug\Discord Multitool.csproj.CoreCompileInputs.cache
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\obj\Debug\Discord Multitool.csproj.CopyComplete
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Debug\Alpha Spammer.exe.config
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Debug\Alpha Spammer.exe
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Debug\Alpha Spammer.pdb
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Debug\Google.Protobuf.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Debug\Leaf.xNet.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Debug\MySql.Data.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Debug\Renci.SshNet.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Debug\Google.Protobuf.xml
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Debug\Leaf.xNet.xml
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Debug\MySql.Data.xml
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Debug\Renci.SshNet.xml
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\obj\Debug\Alpha Spammer.exe
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\obj\Debug\Alpha Spammer.pdb
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Alpha Spammer.exe.config
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Alpha Spammer.exe
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Alpha Spammer.pdb
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Google.Protobuf.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Leaf.xNet.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\MetroFramework.Design.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\MetroFramework.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\MySql.Data.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Renci.SshNet.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Google.Protobuf.xml
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Leaf.xNet.xml
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\MySql.Data.xml
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Renci.SshNet.xml
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Discord.Net.Commands.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Discord.Net.Core.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Discord.Net.Rest.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Discord.Net.Webhook.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Discord.Net.WebSocket.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Newtonsoft.Json.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\System.AppContext.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\System.Collections.Immutable.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\System.Console.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\System.Globalization.Calendars.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\System.Interactive.Async.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\System.IO.Compression.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\System.IO.FileSystem.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\System.Net.Http.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\System.Net.Sockets.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Discord.Net.Commands.xml
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Discord.Net.Core.xml
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Discord.Net.Rest.xml
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Discord.Net.Webhook.xml
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Discord.Net.WebSocket.xml
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Newtonsoft.Json.xml
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\System.Collections.Immutable.xml
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\System.Interactive.Async.xml
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Discord.Net.Rpc.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Discord.Net.Rpc.xml

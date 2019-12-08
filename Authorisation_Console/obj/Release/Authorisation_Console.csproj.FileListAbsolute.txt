@@ -1,0 +1,6 @@
+C:\Users\Elias\source\repos\Discord Multitool\Authorisation_Console\bin\Release\Authorisation_Console.exe.config
+C:\Users\Elias\source\repos\Discord Multitool\Authorisation_Console\bin\Release\Authorisation_Console.exe
+C:\Users\Elias\source\repos\Discord Multitool\Authorisation_Console\bin\Release\Authorisation_Console.pdb
+C:\Users\Elias\source\repos\Discord Multitool\Authorisation_Console\obj\Release\Authorisation_Console.csproj.CoreCompileInputs.cache
+C:\Users\Elias\source\repos\Discord Multitool\Authorisation_Console\obj\Release\Authorisation_Console.exe
+C:\Users\Elias\source\repos\Discord Multitool\Authorisation_Console\obj\Release\Authorisation_Console.pdb

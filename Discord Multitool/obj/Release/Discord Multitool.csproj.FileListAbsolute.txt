@@ -1,0 +1,23 @@
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\MetroFramework.Design.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\MetroFramework.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\obj\Release\Discord_Multitool.Form1.resources
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\obj\Release\Discord_Multitool.Properties.Resources.resources
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\obj\Release\Discord Multitool.csproj.GenerateResource.cache
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\obj\Release\Discord Multitool.csproj.CoreCompileInputs.cache
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\obj\Release\Discord Multitool.csproj.CopyComplete
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Leaf.xNet.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Leaf.xNet.xml
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Alpha Spammer.exe.config
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Alpha Spammer.exe
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Alpha Spammer.pdb
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\obj\Release\Alpha Spammer.exe
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\obj\Release\Alpha Spammer.pdb
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\obj\Release\Discord Multitool.csprojAssemblyReference.cache
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Google.Protobuf.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\MySql.Data.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Renci.SshNet.dll
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Google.Protobuf.xml
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\MySql.Data.xml
+C:\Users\Elias\source\repos\Discord Multitool\Discord Multitool\bin\Release\Renci.SshNet.xml
